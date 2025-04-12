@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://archive.org/download/nothing-phone-1-firmware/2.0.5/d8c21c8c162c9677ba78e51305abaf5b0ccd30e2.zip
+  ROM_URL: https://archive.org/download/nothing-phone-1-firmware/1.1.7/GLOBAL/254815bb72cdbddd5c9dd7cde6d10c95becc6542.zip
   ROM_NAME: Generic
   BUILD_TYPE: aonly
   TZ: Asia/Shanghai
